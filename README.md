@@ -8,5 +8,6 @@ In this Recap, we will go over two multi-classification modeling strategies:
 We will demonstrate their differences, advantages, and disadvantages.
 
 To start the recap, open `Recap.ipynb` in `jupyter notebook`.
+Let's use a Machine Learning algorithm to help us classify these penguins based on their characteristics.
 
 🚀 Your turn!
